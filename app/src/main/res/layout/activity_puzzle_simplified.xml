@@ -115,11 +115,12 @@
         android:id="@+id/btnComenzarJuego"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="34dp"
+        android:layout_marginBottom="64dp"
         android:text="Comenzar juego"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/gridLayout3x3"
-        app:layout_constraintStart_toStartOf="@+id/gridLayout3x3"
-        app:layout_constraintTop_toBottomOf="@+id/gridLayout3x3" />
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="@+id/gridLayout3x3" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
