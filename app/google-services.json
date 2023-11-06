@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743668148528",
+    "project_id": "lab06-iot",
+    "storage_bucket": "lab06-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743668148528:android:62770f58c0e4ffdb8dc0f5",
+        "android_client_info": {
+          "package_name": "com.example.lab06_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPtovgfpYA23ppZtO2oWCTmm-1ol3s00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
